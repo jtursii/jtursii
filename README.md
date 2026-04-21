@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Joey! 👋
 
-<!--
-**jtursii/jtursii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Computer Science student at **CU Boulder** with a focus on Engineering Entrepreneurship. I love building tools that bridge the gap between music production and software.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working on
+* **Volüm:** A music discovery platform for college scenes.
+* **TrackStack:** Version control and cloud sync for Ableton Live projects.
+* **Laso Health:** Building wait-list automation and full-stack features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack
+```javascript
+const joey = {
+  pronouns: "he" | "him",
+  education: {
+    school: "University of Colorado Boulder",
+    major: "Computer Science",
+    minor: "Engineering Entrepreneurship",
+    expected_grad: "May 2026"
+  },
+  skills: ["C", "Rust", "TypeScript", "Next.js", "AWS (Lambda/DynamoDB)", "Supabase"],
+  hobbies: ["Music Production (Ableton 12)", "Skiing (Ikon Pass life)", "Stephen King novels"]
+}
